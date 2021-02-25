@@ -39,6 +39,12 @@
         // example:
         createPlatform(400, 250);
         createPlatform(170, 460, 0.5);
+        createPlatform(300, 200, 0.3, game.world.height -500,3,2);
+        createPlatform(30,600,0.4);
+        createPlatform(20,500,0.4);
+        createPlatform(20,400,0.4);
+        createPlatform(100,320,0.5);
+        createPlatform(0,250,0.5);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
