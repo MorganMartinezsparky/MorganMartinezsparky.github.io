@@ -105,7 +105,7 @@ circles.push(circle);
 
 ## What does this code actually do?
 
-<details> <summary> Click the arrows to find out! </summary>
+<details> <summary> Click the arrow to find out! </summary>
 
 First we call a function from the `draw` library: a collection of functions that allow us to draw various shapes on our `canvas`. This method, `draw.randomCircleInArea` will draw a circle of random size, color, and location within the screen along with a few other settings. Check out the parameters of the function below:
 
